@@ -22,7 +22,7 @@ Please enter your numeric choice:  1
 To make this the default region, run `gcloud config set run/region us-central1`.
 
 Service name: (cloud-run-go-echo):  
-Deploying container to Cloud Run service [cloud-run-go-echo] in project [cchapp-225403] region [us-central1]
+Deploying container to Cloud Run service [cloud-run-go-echo] in project [YOUR-PROJECT-ID] region [us-central1]
 Allow unauthenticated invocations to new service [cloud-run-go-echo]? 
 (y/N)?  y
 
